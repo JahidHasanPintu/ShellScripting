@@ -1,0 +1,10 @@
+a) A small TODO-App. 
+
+random music player
+
+
+script to download all the pictures in a
+ File Explorer - ok
+ Fetch Current Weather-- ok***
+ 
+ Credit Card Validator -https://github.com/tiikeri/all/blob/master/coding-problems-solved/projects-solutions/ccv.sh
